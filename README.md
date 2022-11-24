@@ -2,7 +2,7 @@
 
 
 ### Link to the app
-The app can be found [here](https://jiahejanetgapminder.shinyapps.io/GapminderApp/). 
+The app can be found [here](http://jiahejanetgapminder.shinyapps.io/GapminderApp). 
 
 ### Assignment B3 of UBC Stat545B
 This github is created for assignment B3 of UBC stat545B class. I am choosing to do option B, which asks me to create my own app. 
