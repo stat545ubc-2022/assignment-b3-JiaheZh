@@ -12,4 +12,4 @@ This app is created for users to explore the data regarding life expectancy, GDP
 
 ### Dataset Acknolwedgement 
 This app uses the gapminder dataset. More information regarding this data set can be found [here](https://www.gapminder.org/data/). 
-
+This data can also be downloaded as a .csv file through this github. It's called GapminderApp_data.csv within the Shiny App_Gapminder folder. 
