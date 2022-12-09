@@ -24,8 +24,8 @@ For assignment B4, I chose Option C, and updated the Gapminder World App. Severa
 * Three pages were created: About, Data, and Plot
 * About: a brief description of the app 
 * Data: includes the complete Gapminder data set, and users can choose the specific continents they are interested in and the time range they would like to explore 
-* Plot: different scatter plots can be created based on whichever two variables the users want to explore, and when users can click on the data points, specific values of the data points will be shown in an information box below the plots.   
+* Plot: different scatter plots can be created based on whichever two variables the users want to explore, and when users click on the data points, specific values of the data points will be shown in an information box below the plots.   
 
 ### Dataset Acknolwedgement 
 This app uses the gapminder dataset. More information regarding this data set can be found [here](https://www.gapminder.org/data/). 
-This data can also be downloaded as a .csv file through this github. It's called GapminderApp_data.csv within the Shiny App_Gapminder folder. 
+This data can also be downloaded as a .csv file through this github. It's called GapminderApp_data.csv within the Shiny App_Gapminder folder and the Shiny App_Gapminder_Version2 folder. 
