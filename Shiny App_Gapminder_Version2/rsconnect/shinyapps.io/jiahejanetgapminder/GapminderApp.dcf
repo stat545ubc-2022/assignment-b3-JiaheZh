@@ -1,0 +1,14 @@
+name: GapminderApp
+title: GapminderApp
+username:
+account: jiahejanetgapminder
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7721521
+bundleId: 6552293
+url: https://jiahejanetgapminder.shinyapps.io/GapminderApp/
+when: 1669335236.1434
+lastSyncTime: 1669335236.14342
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: .RData
