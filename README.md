@@ -11,7 +11,7 @@ Welcome to my Gapminder World App repository! This app is created for users to e
 
 This github repository was created for Assignemnt B3 and B4 of UBC Stat 545B (2022). This repository has two different folders. If you want to see the details related to the initial version of the app, please open the Shiny App_Gapminder folder. If you want to see the details related to the updated version of the app, please open the Shiny App_Gapminder_Version2 folder. 
 
-### Assignment B3 of UBC Stat545B
+### Assignment B3 of UBC Stat 545B
 For assignment B3, I chose Option B and created this Gapminder World App. This application has the following features: 
 * A selection box that allows users to choose the specific continent they are interested in 
 * A table containing the complete Gapminder Data set 
