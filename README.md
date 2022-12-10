@@ -1,5 +1,6 @@
 # Gapminder World App 
 
+
 ### Link to the app
 The first version of the app can be found [here](http://jiahejanetgapminder.shinyapps.io/GapminderApp). 
 
